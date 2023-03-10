@@ -289,7 +289,7 @@ https://www.dynamsoft.com/Products/WebTWAIN_License.aspx
 >
 >**v17.0** (build version 1, 7, 0, 0330)
 >
->`Dynamsoft Service Manager (DWASManager_17000330.dll, 64bit)`
+>`Dynamsoft Service Manager (DWASManager_.dll, 64bit)`
 >
 >**v17.0** (build version 17, 0, 0, 0330)
 >
