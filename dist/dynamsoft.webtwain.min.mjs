@@ -53220,7 +53220,7 @@ Dynamsoft.AddonReady(function (DL, nil) {
     Dynamsoft.error.code.wasmJsSavePdfFailed = Dynamsoft.error.code.wasmJsBase - 1;
     Dynamsoft.error.code.wasmJsSaveTiffFailed = Dynamsoft.error.code.wasmJsBase - 1;
     Dynamsoft.conststring = {
-        version: "1.7.0",
+        version: "1.6.2",
         logInfo: "logInfo",
         logDebug: "logDebug",
         logAll: "logAll",
